@@ -8,7 +8,7 @@ PSP Emulator (PPSSPP): https://github.com/Nun-z/ppsspp.git (forked from https://
 
 FTP Server (Durango FTP): https://github.com/Nun-z/DURANGO-FTP.git (forked from https://github.com/Dantes-Dungeon/DURANGO-FTP)
 
-PSX Emulator (Duckstation): https://github.com/Nun-z/duckstation/tree/master (forked from https://github.com/stenzek/duckstation)
+PSX Emulator: https://github.com/Nun-z/duckstation/tree/master (forked from https://github.com/stenzek/duckstation)
 
 Dreamcast Emulator (Flycast): https://github.com/flyinghead/flycast
 
