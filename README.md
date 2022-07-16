@@ -23,3 +23,5 @@ Moonlight: https://github.com/TheElixZammuto/moonlight-xbox
 Sonic 1: https://github.com/Rubberduckycooly/Sonic-1-2-2013-Decompilation
 
 Sonic 2: https://github.com/Rubberduckycooly/Sonic-1-2-2013-Decompilation
+
+NScummVM: https://github.com/Nun-z/NScummUWP (forked from https://github.com/basharast/NScummUWP)
