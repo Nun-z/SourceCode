@@ -25,3 +25,5 @@ Sonic 1: https://github.com/Rubberduckycooly/Sonic-1-2-2013-Decompilation
 Sonic 2: https://github.com/Rubberduckycooly/Sonic-1-2-2013-Decompilation
 
 XBSX2: https://github.com/Nun-z/XBSX2 (forked from https://github.com/TheRhysWyrill/XBSX2)
+
+Sonic Mania: https://github.com/WamWooWam/RSDKv5-Decompilation
